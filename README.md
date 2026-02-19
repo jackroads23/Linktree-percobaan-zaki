@@ -1,2 +1,2 @@
-# Linktree-percobaan-zaki
+# Linktree-zaki-iskandar
 repo pertamaku
